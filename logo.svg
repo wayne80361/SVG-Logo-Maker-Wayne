@@ -5,9 +5,9 @@
         height="200"
         xmlns="http://www.w3.org/2000/svg">
       
-        <polygon points="50, 25 250, 25 250, 200 50, 200" fill="orange"/>
+        <polygon points="150, 25 260, 195 40, 195" fill="blue" />
 
-        <text x="150" y="130" font-size="60" text-anchor="middle" fill="">
-          
+        <text x="150" y="175" font-size="60" text-anchor="middle" fill="orange">
+          CKS
         </text>
       </svg>
