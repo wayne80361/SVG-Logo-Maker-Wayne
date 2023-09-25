@@ -70,7 +70,13 @@ SVG Logo maker
 
 ## Tests
 
-npm jest
+jest test
+
+run the test in integrated terminal with
+
+```bash
+npm test
+```
 
 It will test the content of Circle, Triangle and Square, and the shape's color
 
